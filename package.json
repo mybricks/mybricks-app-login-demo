@@ -1,0 +1,25 @@
+{
+  "name": "mybricks-app-login-demo",
+  "version": "1.0.1",
+  "description": "登录打通示例应用",
+  "keywords": [
+    "mybricks",
+    "application"
+  ],
+  "files": [
+    "nodejs/module",
+    "nodejs/index.module.ts",
+    "package.json",
+    "assets"
+  ],
+  "author": "MyBricks Team",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {},
+  "mybricks": {
+    "title": "登录打通示例应用",
+    "type": "system"
+  }
+}
